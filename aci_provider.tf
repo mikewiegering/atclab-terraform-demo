@@ -1,11 +1,11 @@
 
  provider "aci" {
     # cisco-aci user name
-    username = admin
+    username = "admin"
     # cisco-aci password
-    password = WWTwwt1!
+    password = "WWTwwt1!"
     # cisco-aci url
-    url      = 192.168.2.149
+    url      = "192.168.2.149"
     insecure = true
     version = "0.4.1"
 }
