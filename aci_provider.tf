@@ -5,7 +5,7 @@
     # cisco-aci password
     password = "WWTwwt1!"
     # cisco-aci url
-    url      = "192.168.2.149"
+    url      = "https://192.168.2.149"
     insecure = true
     version = "0.4.1"
 }
