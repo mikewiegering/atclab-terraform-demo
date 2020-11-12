@@ -7,7 +7,7 @@
     # cisco-aci url
     url      = "https://192.168.2.149"
     insecure = true
-    version = "0.4.1"
+    version = "0.3.4"
 }
 
 
